@@ -1,0 +1,3 @@
+Ana Paula,404,3
+Pedro Santos,505,2
+Mariana Costa,606,4

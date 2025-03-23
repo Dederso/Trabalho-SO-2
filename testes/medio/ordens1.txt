@@ -1,0 +1,10 @@
+Lucas Almeida,153,3
+Juliana Nunes,176,5
+Pedro Santos,121,4
+Clara Mendes,115,2
+Beatriz Ramos,199,1
+Gabriel Rocha,134,3
+Patrícia Monteiro,145,4
+Eduardo Vieira,167,2
+Ana Paula,109,5
+João Silva,188,1

@@ -1,0 +1,10 @@
+Thiago Martins,132,2
+Fernanda Oliveira,157,3
+Mariana Costa,178,5
+Ricardo Alves,101,1
+Larissa Gomes,123,4
+Camila Ferreira,190,2
+André Barbosa,141,3
+Maria Souza,165,5
+Carlos Lima,119,1
+Beatriz Ramos,136,4

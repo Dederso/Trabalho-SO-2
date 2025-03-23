@@ -1,0 +1,3 @@
+Lucas Almeida,707,1
+Fernanda Oliveira,808,2
+Rafael Pereira,909,3

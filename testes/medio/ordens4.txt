@@ -1,0 +1,10 @@
+Clara Mendes,120,4
+Mariana Costa,133,3
+Ricardo Alves,192,2
+Larissa Gomes,140,5
+Camila Ferreira,178,1
+André Barbosa,116,3
+Maria Souza,159,4
+Carlos Lima,111,2
+Thiago Martins,102,5
+Beatriz Ramos,175,1

@@ -1,0 +1,10 @@
+Rafael Pereira,108,3
+Patrícia Monteiro,198,2
+Eduardo Vieira,122,4
+João Silva,135,5
+Juliana Nunes,177,1
+Ana Paula,143,3
+Pedro Santos,154,4
+Gabriel Rocha,113,2
+Fernanda Oliveira,187,5
+Lucas Almeida,166,1
